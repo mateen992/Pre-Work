@@ -15,11 +15,6 @@ body {
     min-height: 850px;
   }
   
-  img {
-    margin: 2rem;
-    border-radius: 3rem;
-  }
-  
   .innerdiv {
     margin: 2rem;
     border-radius: 2rem;
